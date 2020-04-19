@@ -1,0 +1,8 @@
+﻿@page
+@model StaticComponentGenerator.HTMLModel
+@{
+    ViewData["Title"] = "HTML";
+}
+
+<h1>HTML</h1>
+@Html.Raw(Model.RequestedContent)

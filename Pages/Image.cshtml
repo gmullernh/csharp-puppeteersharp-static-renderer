@@ -1,0 +1,8 @@
+﻿@page
+@model StaticComponentGenerator.ImageModel
+@{
+    ViewData["Title"] = "Image";
+}
+
+<h1>Image</h1>
+<img src="@Html.Raw(Model.RequestedContent)" />
