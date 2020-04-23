@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticComponentGenerator", "StaticComponentGenerator.csproj", "{D8C7B4C7-6DAD-48C2-BBC8-DF014E8306BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticComponentGenerator", "StaticComponentGenerator\StaticComponentGenerator.csproj", "{D8C7B4C7-6DAD-48C2-BBC8-DF014E8306BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerSharpController", "..\PuppeteerSharpController\PuppeteerSharpController.csproj", "{8B2657CB-3FD5-47DB-A569-828D7DF086A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerSharpController", "PuppeteerSharpController\PuppeteerSharpController.csproj", "{8B2657CB-3FD5-47DB-A569-828D7DF086A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

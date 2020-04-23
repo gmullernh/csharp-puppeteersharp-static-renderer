@@ -2,5 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin/Debug/netcoreapp3.1
-/obj
+/.vs/StaticComponentGenerator/v16
+/PuppeteerSharpController/bin/Debug/netcoreapp3.1
+/PuppeteerSharpController/obj
+/StaticComponentGenerator/obj
